@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B6B6B6&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Ugonna+Anyalemechi!;Computer+Engineering+Student+%40+UT+Dallas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B6B6B6&center=true&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Ugonna+Anyalemechi!;Computer+Engineering+Student+%40+UT+Dallas)](https://git.io/typing-svg)
+
 <!--
 **ugonnaanyalemechi/ugonnaanyalemechi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

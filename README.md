@@ -10,8 +10,10 @@
 <br>
 <br>
 <br>
-🖥️ Passionate about all things tech! <br>
+<p align="center">
+  🖥️ Passionate about all things tech! <br>
 ✉️ You can reach me at: <a href="mailto:ugonnaanyalemechi@gmail.com">ugonnaanyalemechi@gmail.com</a>
+</p>
 <br>
 <br>
 <br>

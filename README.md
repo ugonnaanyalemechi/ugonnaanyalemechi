@@ -10,8 +10,10 @@
 <br>
 <br>
 <br>
-🖥️ Passionate about all things tech! <br>
-✉️ You can reach me at: <a href="mailto:ugonnaanyalemechi@gmail.com">ugonnaanyalemechi@gmail.com</a>
+<p align="center">
+  🖥️ Passionate about all things tech! 🖥️ <br>
+✉️ You can reach me at: <a href="mailto:ugonnaanyalemechi@gmail.com">ugonnaanyalemechi@gmail.com</a> ✉️
+</p>
 <br>
 <br>
 <br>
@@ -19,6 +21,7 @@
 <br>
 <br>
 
+<!--
 ###
 
 <div align="center">
@@ -38,6 +41,7 @@
 </div>
 
 ###
+-->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ugonnaanyalemechi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />

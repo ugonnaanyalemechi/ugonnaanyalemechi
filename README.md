@@ -1,3 +1,4 @@
+/**
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B6B6B6&center=true&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Ugonna+Anyalemechi!;Computer+Engineering+Student+%40+UT+Dallas" alt="Typing SVG" /></a>
 </p>
@@ -22,7 +23,11 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
 
-###
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ugonnaanyalemechi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -34,7 +39,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devpat0304/devpat0304/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devpat0304/devpat0304/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/devpat0304/devpat0304/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ugonnaanyalemechi/ugonnanyalemechi/output/github-snake.svg" />
 </picture>
 
 <!--

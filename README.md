@@ -3,9 +3,6 @@
 </p>
 
 <p align="center">🖥️ Passionate about all things tech! 🖥️<br>📫 ugonnaanyalemechi@gmail.com 📫</p>
-###
-<h2 align="left">I code with</h2>
-###
 
 <!--
 **ugonnaanyalemechi/ugonnaanyalemechi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

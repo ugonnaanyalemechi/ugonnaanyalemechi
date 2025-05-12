@@ -1,11 +1,12 @@
-/**
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B6B6B6&center=true&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Ugonna+Anyalemechi!;Computer+Engineering+Student+%40+UT+Dallas" alt="Typing SVG" /></a>
 </p>
 
-<p>🖥️ Passionate about all things tech! <br>
+<p algiht="center">🖥️ Passionate about all things tech! <br>
   ✉️ You can reach me at: <a href="mailto:ugonnaanyalemechi@gmail.com">ugonnaanyalemechi@gmail.com</a>
 </p>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -23,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
 
-<p line-height=5>                        </p>
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ugonnaanyalemechi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />

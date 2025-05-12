@@ -7,9 +7,8 @@
 <br>
 <br>
 <br>
-<p>🖥️ Passionate about all things tech! <br>
-  ✉️ You can reach me at: <a href="mailto:ugonnaanyalemechi@gmail.com">ugonnaanyalemechi@gmail.com</a>
-</p>
+🖥️ Passionate about all things tech! <br>
+✉️ You can reach me at: <a href="mailto:ugonnaanyalemechi@gmail.com">ugonnaanyalemechi@gmail.com</a>
 <br>
 <br>
 <br>

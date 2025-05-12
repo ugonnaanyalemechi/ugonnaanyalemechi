@@ -2,6 +2,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B6B6B6&center=true&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Ugonna+Anyalemechi!;Computer+Engineering+Student+%40+UT+Dallas" alt="Typing SVG" /></a>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ugonnaanyalemechi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ugonnaanyalemechi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <!--
 **ugonnaanyalemechi/ugonnaanyalemechi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

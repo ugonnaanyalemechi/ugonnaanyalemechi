@@ -31,9 +31,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ugonnaanyalemechi/ugonnaanyalemechi/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devpat0304/devpat0304/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devpat0304/devpat0304/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/devpat0304/devpat0304/output/github-snake.svg" />
+</picture>
 
 <!--
 **ugonnaanyalemechi/ugonnaanyalemechi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
